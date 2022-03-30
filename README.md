@@ -1,5 +1,5 @@
 # Hacking_tools
-trying to automate several parts of "hacking".
+trying to automate initial part of discovery.
 
 
 I'm aware the script might be wrote badly,i'm a student (who doesn't study coding) and hints on how to modify/update it are welcome.
